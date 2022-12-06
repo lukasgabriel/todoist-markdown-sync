@@ -1,0 +1,4 @@
+python-dotenv
+todoist_api_python
+loguru
+sanitize-filename
